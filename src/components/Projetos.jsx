@@ -1,5 +1,5 @@
 const projetos = [
-  { id: 1, nome: "Calculadora", desc: "Feita com JavaScript puro" },
+   { id: 4, nome: "Piedade", desc: "Site e app de atendimento a jovens em momento de crise psicossomática" },
   { id: 2, nome: "Lista de Tarefas", desc: "Feita com React" },
   { id: 3, nome: "Portfólio", desc: "Feito com React + Vite" },
 ]
